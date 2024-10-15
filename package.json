@@ -1,5 +1,5 @@
 {
-  "homepage": "https://github.com/nvhari/Product-Inquiry-Form-in-React-using-react-router-dom.git",
+  "homepage": "https://nvhari.github.io/Product-Inquiry-Form-in-React-using-react-router-dom",
   "name": "product-inquiry-form",
   "version": "0.1.0",
   "private": true,
@@ -11,7 +11,8 @@
     "react-dom": "^18.3.1",
     "react-router-dom": "^6.27.0",
     "react-scripts": "5.0.1",
-    "web-vitals": "^2.1.4", "predeploy": "npm run build",
+    "web-vitals": "^2.1.4",
+    "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
   "scripts": {
